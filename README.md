@@ -5,7 +5,7 @@
  🔍 Overview
 
 > 🚮 Upload an image of waste and the model will tell you if it's **plastic**, **paper**, **metal**, **trash**, **glass**, or **cardboard**.  
-> 🎯 Powered by Transfer Learning with MobileNetV2 and deployed using Streamlit.
+> 🎯 Powered by Transfer Learning with MobileNetV2 .
 
 ---
 
@@ -24,7 +24,7 @@
 - 🧠 High-accuracy image classification with MobileNetV2
 - 📤 Upload trash image and get prediction with class probability
 - 📊 Confusion matrix & performance metrics
-- 🌐 Hosted on Streamlit Cloud with elegant yellow UI theme
+
 
 ---
 
@@ -71,7 +71,5 @@ This model was trained on the **TrashNet** dataset.
 🙌 Acknowledgements
 
 - [TrashNet Dataset by Gary Thung](https://github.com/garythung/trashnet)
-- [Streamlit](https://streamlit.io/)
-- TensorFlow, Keras, OpenCV
 
 ---
