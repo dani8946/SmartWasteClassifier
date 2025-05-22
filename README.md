@@ -33,8 +33,8 @@
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/smart-waste-classifier.git
-cd smart-waste-classifier
+git clone https://github.com/dani8946/SmartWasteClassifier.git
+cd SmartWasteClassifier
 ```
 
 2. **Install Dependencies**
